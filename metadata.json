@@ -1,0 +1,7 @@
+{
+  "name": "AI Face Recognition Attendance System",
+  "description": "A comprehensive attendance management system using real-time face recognition, featuring student management, dashboard analytics, and automated reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
